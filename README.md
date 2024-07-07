@@ -6,7 +6,8 @@ In file chatbot.ipynb, we can make a chatbot based on RAG.
 
 ## Installation
 
-**Clone the repository**:
+**Clone the repository:**
+
     ```sh
     git clone https://github.com/trhuuloc/RAG-Question-Answer
     cd RAG-Question-Answer
